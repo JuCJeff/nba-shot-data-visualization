@@ -1,3 +1,4 @@
+## User Manual
 
 Users can choose Hexbin or Scatter to toggle between the views of general field goal percentage and each shot the player made in the 2018-2019 season. 
 
