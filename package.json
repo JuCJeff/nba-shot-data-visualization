@@ -1,0 +1,40 @@
+{
+  "name": "nba-web",
+  "version": "0.1.0",
+  "homepage": "https://jucjeff.github.io/nba-shot-data-visualization/",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.23.3",
+    "d3-shotchart": "0.0.2",
+    "nba": "^4.8.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  	"deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
