@@ -1,5 +1,7 @@
 
-Users can choose Hexbin or Scatter to toggle between the views of general field goal percentage and each shot the player made in the 2018-2019 season. There is also a button to toggle showing tooltips when the user hovers over a certain section. A search functionality is currently under implementation. For now, in order for a user to change searching another player, go to `Main.js` and change relevant sections to realize the functionality.
+Users can choose Hexbin or Scatter to toggle between the views of general field goal percentage and each shot the player made in the 2018-2019 season. 
+
+There is also a button to toggle showing tooltips when the user hovers over a certain section. A search functionality is currently under implementation. For now, in order for a user to change searching another player, go to `Main.js` and change relevant sections to realize the functionality.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
