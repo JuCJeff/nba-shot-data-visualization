@@ -1,0 +1,16 @@
+.data-view {
+  width: 550px;
+}
+
+.filters {
+  margin-left: 75px;
+}
+
+.switch {
+  margin: 10px 0;
+  display: auto;
+}
+
+.btnText {
+  color: white;
+}

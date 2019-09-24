@@ -1,8 +1,12 @@
+@import '~antd/dist/antd.css';
+
 @import 'styles/App.css';
-@import 'styles/TopNavBar.css';
+@import 'styles/CountSlider.css';
+@import 'styles/DataViewCountainer.css';
 @import 'styles/Main.css';
 @import 'styles/Profile.css';
 @import 'styles/ShotChart.css';
+@import 'styles/TopNavBar.css';
 
 body {
   margin: 0;
@@ -12,6 +16,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #303030;
+  color: white;
 }
 
 code {
