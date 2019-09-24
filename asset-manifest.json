@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nba-shot-data-visualization/static/css/main.765bc80b.chunk.css",
+    "main.js": "/nba-shot-data-visualization/static/js/main.d2002695.chunk.js",
+    "main.js.map": "/nba-shot-data-visualization/static/js/main.d2002695.chunk.js.map",
+    "runtime~main.js": "/nba-shot-data-visualization/static/js/runtime~main.5b038480.js",
+    "runtime~main.js.map": "/nba-shot-data-visualization/static/js/runtime~main.5b038480.js.map",
+    "static/js/2.9eac9aa1.chunk.js": "/nba-shot-data-visualization/static/js/2.9eac9aa1.chunk.js",
+    "static/js/2.9eac9aa1.chunk.js.map": "/nba-shot-data-visualization/static/js/2.9eac9aa1.chunk.js.map",
+    "index.html": "/nba-shot-data-visualization/index.html",
+    "precache-manifest.b85fb37510b0d4a43f79fd7ad0929293.js": "/nba-shot-data-visualization/precache-manifest.b85fb37510b0d4a43f79fd7ad0929293.js",
+    "service-worker.js": "/nba-shot-data-visualization/service-worker.js",
+    "static/css/main.765bc80b.chunk.css.map": "/nba-shot-data-visualization/static/css/main.765bc80b.chunk.css.map",
+    "static/media/nba-logoman-word-white.svg": "/nba-shot-data-visualization/static/media/nba-logoman-word-white.9470e2d5.svg"
+  }
+}
