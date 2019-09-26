@@ -1,11 +1,14 @@
 .main {
-    display: flex;
-    width: 750px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    border: 1.5px solid #151515;
-    box-shadow: 5px 10px 10px #000;
-    border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.player {
+  display: flex;
+  width: 750px;
+  margin: auto;
+  border: 3px solid #151515;
+  box-shadow: 5px 10px 10px #000;
+  border-radius: 10px;
+  overflow: hidden;
 }
